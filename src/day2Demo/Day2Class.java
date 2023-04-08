@@ -9,5 +9,11 @@ public class Day2Class {
 		public void getInfo() {
 			System.out.println("Pushing code...");
 			System.out.println("   ");
+			
+			
+		}
+		
+		public void add (int a, int b) {
+			System.out.println(a+b);
 		}
 }
