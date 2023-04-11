@@ -22,4 +22,6 @@ public class Day2Class {
 	*/
 	
 	String firstName = "John";
+	
+	String lastName = "Cena";
 }
